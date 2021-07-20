@@ -35,6 +35,7 @@ To properly display all  widgets belonging to ``ipywidgets`` package, we recomme
 
 Due to Git LFS limitations on GitHub, all needed datasets were been removed from this repository. In order to use this application, you must donwload them from
 [here](https://data.world/data-society/global-climate-change-data) and put them inside <code>./data</code> directory.
+Unfortunately, to remove uploaded files on Git LFS, i had to remove and recreate this repository. Sorry for losting all commit history.
 
 ## How to run
 
